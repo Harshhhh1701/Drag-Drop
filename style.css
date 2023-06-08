@@ -1,0 +1,25 @@
+.container {
+    border: 2px solid #ccc;
+    padding: 10px;
+    min-height: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .item {
+    background-color: #f1f1f1;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .dragging {
+    opacity: 0.5; /* Reduce opacity for the dragged item */
+  }
+  
+  .hovered {
+    background-color: #d3d3d3; /* Change background color when item is dragged over a container */
+  }
+  
+  #resetButton {
+    margin-top: 10px;
+  }
+  
