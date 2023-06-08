@@ -1,4 +1,4 @@
-Hey. I ahve deployed the assignment so view 
+Hey. I have deployed the assignment so view 
 
 https://drag-drop-omega.vercel.app/
 
